@@ -1,0 +1,31 @@
+topic,risk
+"Topic 0: investment, property, distribution, interest, agreement ",Shareholders interest risk 
+"Topic 1: regulation, change, law, financial, operation, tax, accounting ",*Regulation changes(accounting) 
+"Topic 2: gas, price, oil, natural, operation, production ",Input prices risks 
+"Topic 3: stock, price, share, market, future, dividend, security, stakeholder ",** Stakeholders profit 
+"Topic 4: cost, regulation, environmental, law, operation, liability ",*Regulation changes(environment) 
+"Topic 5: control, financial, internal, loss, reporting, history ",Financial condition risks 
+"Topic 6: financial, litigation, operation, condition, action, legal, liability, regulatory, claim, lawsuit ",*Potential/Ongoing Lawsuits 
+"Topic 7: competitive, industry, competition, highly, market ",Competition risks 
+"Topic 8: cost, operation, labor, operating, employee, increase, acquisition ",**Labor cost 
+"Topic 9: product, candidate, development, approval, clinical, regulatory ",New product introduction risks 
+"Topic 10: tax, income, asset, net, goodwill, loss, distribution, impairment, intangible ","**Accounting, +Restructuring risks "
+"Topic 11: interest, director, officer, trust, combination, share, conflict ",**Management 
+"?Topic 12: product, liability, claim, market, insurance, sale, revenue ",Potential defects in products 
+"Topic 13: loan, real, estate, investment, property, market, loss, portfolio ",**Investment 
+"Topic 14: personnel, key, retain, attract, management, employee ",Human resource risks 
+"Topic 15: stock, price, operating, stockholder, fluctuate, interest, volatile ",Volatile stock price risks 
+"Topic 16: acquisition, growth, future, operation, additional, capital, strategy ",Merger & Acquisition risks 
+"Topic 17: condition, economic, financial, market, industry, change, affected, downturn, demand ","Macroeconomic risks, +Industry is cyclical "
+"Topic 18: system, service, information, failure, product, operation, software, network, breach, interruption ","Disruption of operations, +Infrastructure risks "
+"Topic 19: cost, contract, operation, plan, increase, pension, delay ",**Postpone 
+"Topic 20: customer, product, revenue, sale, supplier, relationship, key, portion, contract, manufacturing, rely ","Rely on few large customers, +Suppliers risks +Downstream risks "
+"Topic 21: property, intellectual, protect, proprietary, technology, patent, protection, harm, license ","Intellectual property risks, +Licensing related risks "
+"Topic 22: product, market, service, change, sale, demand, successfully, technology, competition ","Volatile demand and results, + Competition risks "
+"Topic 23: provision, law, control, change, stock, prevent, stockholder, Delaware, charter, delay, bylaw ",*Potential/Ongoing Lawsuits 
+"Topic 24: regulation, government, change, revenue, contract, law, service ",*Regulation changes 
+"Topic 25: capital, credit, financial, market, cost, operation, rating, access, liquidity, downgrade ",**Credit risks 
+"Topic 26: debt, indebtedness, cash, obligation, financial, credit, covenant ",Funding risks 
+"Topic 27: operation, international, foreign, currency, rate, fluctuation ",International risks 
+"Topic 28: loss, insurance, financial, loan, reserve, operation, cover ",**Insurance 
+"Topic 29: operation, natural, facility, disaster, event, terrorist, weather ",Catastrophes 

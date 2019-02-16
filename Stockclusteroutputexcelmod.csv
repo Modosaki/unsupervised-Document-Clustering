@@ -1,0 +1,101 @@
+,ticker,date_x,adj_close_2018,adj_volume_2018,date_y,adj_close_2017,adj_volume_2017,0,companyname,cluster,PriceChange,VolumeChange,price_pos_neg,volume_pos_neg
+0,TAP,1/2/2018,82.24,1129690,1/3/2017,96.62564544,1105063,TAP,['Molson Coors Brewing Company'],[28],-14.38564544,24627,negetive,positive
+1,RL,1/2/2018,104.88,1119979,1/3/2017,88.97238722,1434366,RL,['Ralph Lauren Corporation'],[5],15.90761278,-314387,positive,negetive
+2,PRIM,1/2/2018,27.48,135477,1/3/2017,23.02156415,207539,PRIM,['Primoris Services Corporation'],[0],4.458435851,-72062,positive,negetive
+3,PRGS,1/2/2018,43.24,451038,1/3/2017,31.65818172,155651,PRGS,['Progress Software Corporation'],[17],11.58181828,295387,positive,positive
+4,PRA,1/2/2018,55.85,216274,1/3/2017,55.1112156,298078,PRA,['ProAssurance Corporation'],[9],0.738784399,-81804,positive,negetive
+5,PNW,1/2/2018,83.89,697495,1/3/2017,74.91648469,517304,PNW,['Pinnacle West Capital Corporation'],[3],8.973515311,180191,positive,positive
+6,PLPC,1/2/2018,72.4,10158,1/3/2017,57.22052257,5203,PLPC,['Preformed Line Products Company'],[7],15.17947743,4955,positive,positive
+7,PEI,1/2/2018,12.47,1836336,1/3/2017,18.33304479,707523,PEI,['Pennsylvania Real Estate Investment Trust'],[2],-5.863044786,1128813,negetive,positive
+8,PACW,1/2/2018,50.44,1178150,1/3/2017,52.86597048,723902,PACW,['PacWest Bancorp'],[4],-2.425970479,454248,negetive,positive
+9,ORCL,1/2/2018,46.63,25309088,1/3/2017,38.09008814,11051341,ORCL,['Oracle Corporation'],[8],8.539911856,14257747,positive,positive
+10,O,1/2/2018,56.62,1616390,1/3/2017,55.4190137,1973258,O,['Realty Income Corporation'],[2],1.200986296,-356868,positive,negetive
+11,NPTN,1/2/2018,7.18,977908,1/3/2017,10.89,726868,NPTN,['NeoPhotonics Corporation'],[24],-3.71,251040,negetive,positive
+12,NEU,1/2/2018,403.63,63687,1/3/2017,423.7474136,33056,NEU,['NewMarket Corporation'],[28],-20.11741363,30631,negetive,positive
+13,NAV,1/2/2018,43.63,382189,1/3/2017,31.84,630099,NAV,['Navistar International Corporation'],[28],11.79,-247910,positive,negetive
+14,NANO,1/2/2018,25.25,193078,1/3/2017,24.95,165626,NANO,['Nanometrics Incorporated'],[24],0.3,27452,positive,positive
+15,MTRX,1/2/2018,18.3,208983,1/3/2017,23,125637,MTRX,['Matrix Service Company'],[0],-4.7,83346,negetive,positive
+16,MTRN,1/2/2018,50,366626,1/3/2017,39.65854038,91328,MTRN,['Materion Corporation'],[3],10.34145962,275298,positive,positive
+17,MRIN,1/2/2018,10.9,4139,1/3/2017,16.8,6619.285714,MRIN,['Marin Software Incorporated'],[17],-5.9,-2480.285714,negetive,negetive
+18,MGM,1/2/2018,33.51,5446404,1/3/2017,29.1595591,9439195,MGM,['MGM Resorts International'],[13],4.350440895,-3992791,positive,negetive
+19,MAS,1/2/2018,43.81,1579123,1/3/2017,31.86648596,2660933,MAS,['Masco Corporation'],[28],11.94351404,-1081810,positive,negetive
+20,LYB,1/2/2018,112.23,1113175,1/3/2017,84.29527238,2560315,LYB,['LyondellBasell Industries NV'],[8],27.93472762,-1447140,positive,negetive
+21,LRCX,1/2/2018,189.28,2009499,1/3/2017,105.98249,1937513,LRCX,['Lam Research Corporation'],[24],83.29751005,71986,positive,positive
+22,LNT,1/2/2018,42.11,1392947,1/3/2017,36.75667996,866626,LNT,['Alliant Energy Corporation'],[0],5.35332004,526321,positive,positive
+23,LNC,1/2/2018,77.91,1294623,1/3/2017,65.79974373,1578206,LNC,['Lincoln National Corporation'],[27],12.11025627,-283583,positive,negetive
+24,LMNX,1/2/2018,20.33,234566,1/3/2017,20.21244339,140447,LMNX,['Luminex Corporation'],[10],0.117556606,94119,positive,positive
+25,LION,1/2/2018,21.85,75802,1/3/2017,23.2137216,130549,LION,['Fidelity Southern Corporation'],[4],-1.363721596,-54747,negetive,negetive
+26,LGND,1/2/2018,138.63,127824,1/3/2017,102.5,255310,LGND,['Ligand Pharmaceuticals Incorporated'],[6],36.13,-127486,positive,negetive
+27,LANC,1/2/2018,128.71,117327,1/3/2017,139.8249182,90869,LANC,['Lancaster Colony Corporation'],[28],-11.11491823,26458,negetive,positive
+28,IRET,1/2/2018,5.69,632353,1/3/2017,6.923717634,702287,IRET,['Investors Real Estate Trust'],[2],-1.233717634,-69934,negetive,negetive
+29,IRBT,1/2/2018,80.1,792566,1/3/2017,57.58,484914,IRBT,['iRobot Corporation'],[28],22.52,307652,positive,positive
+30,IPGP,1/2/2018,222.34,542372,1/3/2017,98.78,163546,IPGP,['IPG Photonics Corporation'],[24],123.56,378826,positive,positive
+31,IMMR,1/2/2018,7.09,431755,1/3/2017,10.74,254594,IMMR,['Immersion Corporation'],[17],-3.65,177161,negetive,positive
+32,IBM,1/2/2018,154.25,4195225,1/3/2017,160.9398519,2934299,IBM,['International Business Machines Corporation'],[7],-6.689851901,1260926,negetive,positive
+33,IBCP,1/2/2018,22.85,145286,1/3/2017,21.62988834,124912,IBCP,['Independent Bank Corporation'],[4],1.22011166,20374,positive,positive
+34,IART,1/2/2018,46.87,787723,1/3/2017,42.59,713270,IART,['Integra LifeSciences Holdings Corporation'],[10],4.28,74453,positive,positive
+35,HSC,1/2/2018,18.85,565035,1/3/2017,14.45,756325,HSC,['Harsco Corporation'],[7],4.4,-191290,positive,negetive
+36,HRS,1/2/2018,142.07,929674,1/3/2017,101.2779463,698139,HRS,['Harris Corporation'],[26],40.79205367,231535,positive,positive
+37,HPT,1/2/2018,30.01,503620,1/3/2017,29.96808417,798955,HPT,['Hospitality Properties Trust'],[15],0.041915828,-295335,positive,negetive
+38,HNRG,1/2/2018,6.29,56229,1/3/2017,8.992753511,130307,HNRG,['Hallador Energy Company'],[18],-2.702753511,-74078,negetive,negetive
+39,GPC,1/2/2018,96.58,942303,1/3/2017,93.50186748,648032,GPC,['Genuine Parts Company'],[28],3.07813252,294271,positive,positive
+40,GM,1/2/2018,41.8,6924308,1/3/2017,34.06371243,10904891,GM,['General Motors Company'],[28],7.736287571,-3980583,positive,negetive
+41,GHM,1/2/2018,21.42,39579,1/3/2017,23.85088682,150054,GHM,['Graham Corporation'],[28],-2.430886824,-110475,negetive,negetive
+42,GFF,1/2/2018,19.85,127014,1/3/2017,26.15241704,247806,GFF,['Griffon Corporation'],[3],-6.30241704,-120792,negetive,negetive
+43,GBNK,1/2/2018,27.4,100835,1/3/2017,24.18794285,151274,GBNK,['Guaranty Bancorp'],[27],3.212057151,-50439,positive,negetive
+44,G,1/2/2018,32.39,1719678,1/3/2017,24.26405464,943974,G,['Genpact Limited'],[14],8.125945357,775704,positive,positive
+45,FAST,1/2/2018,54.54,1977071,1/3/2017,45.6721658,2834884,FAST,['Fastenal Company'],[28],8.867834195,-857813,positive,negetive
+46,EXAS,1/2/2018,51.79,2057002,1/3/2017,13.41,1845459,EXAS,['Exact Sciences Corporation'],[3],38.38,211543,positive,positive
+47,EVC,1/2/2018,7.05,1419479,1/3/2017,6.574263794,409930,EVC,['Entravision Communications Corporation'],[3],0.475736206,1009549,positive,positive
+48,ESGR,1/2/2018,199.7,58097,1/3/2017,197.9,19155,ESGR,['Enstar Group Limited'],[9],1.8,38942,positive,positive
+49,ERIE,1/2/2018,119.33,34335,1/3/2017,109.803487,58524,ERIE,['Erie Indemnity Company'],[9],9.52651296,-24189,positive,negetive
+50,EGAN,1/2/2018,5.45,311270,1/3/2017,2.05,16825,EGAN,['eGain Corporation'],[17],3.4,294445,positive,positive
+51,ECOM,1/2/2018,8.95,168935,1/3/2017,14.25,87030,ECOM,['ChannelAdvisor Corporation'],[17],-5.3,81905,negetive,positive
+52,DWSN,1/2/2018,5.07,53322,1/3/2017,7.98,40208,DWSN,['Dawson Geophysical Company'],[19],-2.91,13114,negetive,positive
+53,DRE,1/2/2018,26.89,2664234,1/3/2017,25.88783901,2135576,DRE,['Duke Realty Corporation'],[2],1.002160993,528658,positive,positive
+54,DIOD,1/2/2018,29.26,301756,1/3/2017,25.84,147883,DIOD,['Diodes Incorporated'],[24],3.42,153873,positive,positive
+55,DG,1/2/2018,94.06,1988537,1/3/2017,73.40261022,2003594,DG,['Dollar General Corporation'],[5],20.65738978,-15057,positive,negetive
+56,DEST,1/2/2018,3.13,103284,1/3/2017,5.5,75999,DEST,['Destination Maternity Corporation'],[5],-2.37,27285,negetive,positive
+57,CY,1/2/2018,15.84,5119989,1/3/2017,11.10629672,5746304,CY,['Cypress Semiconductor Corporation'],[24],4.733703278,-626315,positive,negetive
+58,CVA,1/2/2018,16.85,609723,1/3/2017,14.91309739,1186548,CVA,['Covanta Holding Corporation'],[0],1.936902608,-576825,positive,negetive
+59,CUB,1/2/2018,59.15,89294,1/3/2017,48.52479579,138959,CUB,['Cubic Corporation'],[26],10.62520421,-49665,positive,negetive
+60,CTAS,1/2/2018,156.85,472288,1/3/2017,115.038542,859079,CTAS,['Cintas Corporation'],[28],41.81145801,-386791,positive,negetive
+61,CPT,1/2/2018,91.5,383419,1/3/2017,81.89396713,645117,CPT,['Camden Property Trust'],[2],9.606032874,-261698,positive,negetive
+62,CPB,1/2/2018,47.39,2197614,1/3/2017,59.0587279,1185432,CPB,['Campbell Soup Company'],[28],-11.6687279,1012182,negetive,positive
+63,COST,1/2/2018,188.32,2481462,1/3/2017,158.3452854,2099205,COST,['Costco Wholesale Corporation'],[5],29.97471463,382257,positive,positive
+64,CORT,1/2/2018,18.14,1525955,1/3/2017,7.36,797101,CORT,['Corcept Therapeutics Incorporated'],[6],10.78,728854,positive,positive
+65,COR,1/2/2018,112.6,452111,1/3/2017,78.56850077,478091,COR,['CoreSite Realty Corporation'],[2],34.03149923,-25980,positive,negetive
+66,COP,1/2/2018,55.32,3962373,1/3/2017,49.49362005,7032586,COP,['ConocoPhillips'],[19],5.826379954,-3070213,positive,negetive
+67,COLM,1/2/2018,73.04,247316,1/3/2017,56.28399304,429015,COLM,['Columbia Sportswear Company'],[28],16.75600696,-181699,positive,negetive
+68,COF,1/2/2018,99.61,1647439,1/3/2017,87.61672573,3441067,COF,['Capital One Financial Corporation'],[4],11.99327427,-1793628,positive,negetive
+69,CNMD,1/2/2018,50.61,110733,1/3/2017,43.63997906,77094,CNMD,['CONMED Corporation'],[10],6.970020942,33639,positive,positive
+70,CMCO,1/2/2018,41.15,122219,1/3/2017,27.32247245,108511,CMCO,['Columbus McKinnon Corporation'],[28],13.82752755,13708,positive,positive
+71,CLW,1/2/2018,46.2,56175,1/3/2017,66.55,45451,CLW,['Clearwater Paper Corporation'],[28],-20.35,10724,negetive,positive
+72,CHSP,1/2/2018,27.53,476219,1/3/2017,24.97374494,370641,CHSP,['Chesapeake Lodging Trust'],[15],2.556255057,105578,positive,positive
+73,CFX,1/2/2018,39.82,556633,1/3/2017,36.9,1000242,CFX,['Colfax Corporation'],[28],2.92,-443609,positive,negetive
+74,CERS,1/2/2018,3.56,489322,1/3/2017,4.33,635949,CERS,['Cerus Corporation'],[6],-0.77,-146627,negetive,negetive
+75,CELG,1/2/2018,106.16,4724190,1/3/2017,118.75,4051809,CELG,['Celgene Corporation'],[10],-12.59,672381,negetive,positive
+76,CCL,1/2/2018,66.75,2783766,1/3/2017,51.17892274,3450973,CCL,['Carnival Corporation'],[3],15.57107726,-667207,positive,negetive
+77,CCF,1/2/2018,120.05,22930,1/3/2017,85.65,22522,CCF,['Chase Corporation'],[28],34.4,408,positive,positive
+78,CBS,1/2/2018,59.17,3177625,1/3/2017,63.84166802,3553848,CBS,['CBS Corporation'],[7],-4.671668015,-376223,negetive,negetive
+79,BUSE,1/2/2018,29.88,142211,1/3/2017,30.07044161,102463,BUSE,['First Busey Corporation'],[7],-0.190441611,39748,negetive,positive
+80,BRKR,1/2/2018,34.52,313000,1/3/2017,21.48269891,593478,BRKR,['Bruker Corporation'],[8],13.03730109,-280478,positive,negetive
+81,BOKF,1/2/2018,92.35,133073,1/3/2017,80.53412727,219702,BOKF,['BOK Financial Corporation'],[3],11.81587273,-86629,positive,negetive
+82,BOH,1/2/2018,85.82,231924,1/3/2017,87.0344061,266555,BOH,['Bank of Hawaii Corporation'],[4],-1.214406095,-34631,negetive,negetive
+83,BBOX,1/2/2018,3.5,293039,1/3/2017,14.87572494,114101,BBOX,['Black Box Corporation'],[14],-11.37572494,178938,negetive,positive
+84,BANR,1/2/2018,55.17,150027,1/3/2017,54.36619741,297141,BANR,['Banner Corporation'],[4],0.803802591,-147114,positive,negetive
+85,BAH,1/2/2018,37.96,488675,1/3/2017,35.20398173,1788875,BAH,['Booz Allen Hamilton Holding Corporation'],[26],2.756018266,-1300200,positive,negetive
+86,ATU,1/2/2018,25.05,912860,1/3/2017,26.70834955,1038151,ATU,['Actuant Corporation'],[28],-1.658349552,-125291,negetive,negetive
+87,ATRO,1/2/2018,42.27,127527,1/3/2017,34,94653,ATRO,['Astronics Corporation'],[26],8.27,32874,positive,positive
+88,ATO,1/2/2018,85.04,668765,1/3/2017,73.33111198,451527,ATO,['Atmos Energy Corporation'],[28],11.70888802,217238,positive,positive
+89,ATLO,1/2/2018,28.1,7850,1/3/2017,32.13193896,3407,ATLO,['Ames National Corporation'],[4],-4.031938963,4443,negetive,positive
+90,APH,1/2/2018,87.8,1227122,1/3/2017,66.98389594,826611,APH,['Amphenol Corporation'],[7],20.81610406,400511,positive,positive
+91,ANH,1/2/2018,5.37,839578,1/3/2017,4.866322818,837998,ANH,['Anworth Mortgage Asset Corporation'],[22],0.503677182,1580,positive,positive
+92,ALB,1/2/2018,131.53,1117717,1/3/2017,87.31082663,975594,ALB,['Albemarle Corporation'],[28],44.21917337,142123,positive,positive
+93,AKR,1/2/2018,27.75,553012,1/3/2017,31.75399614,636700,AKR,['Acadia Realty Trust'],[2],-4.003996141,-83688,negetive,negetive
+94,AEE,1/2/2018,58.39,1189242,1/3/2017,51.17294155,1107195,AEE,['Ameren Corporation'],[3],7.217058454,82047,positive,positive
+95,ADM,1/2/2018,40.09,3649242,1/3/2017,44.79801767,3614876,ADM,['Archer Daniels Midland Company'],[7],-4.70801767,34366,negetive,positive
+96,ACRE,1/2/2018,12.79,164627,1/3/2017,13.2559659,147283,ACRE,['Ares Commercial Real Estate Corporation'],[22],-0.465965895,17344,negetive,positive
+97,ACN,1/2/2018,153.84,2854628,1/3/2017,114.1537417,2352157,ACN,['Accenture plc'],[14],39.68625828,502471,positive,positive
+98,ABT,1/2/2018,58.79,10112783,1/3/2017,38.17044332,9677316,ABT,['Abbott Laboratories'],[3],20.61955668,435467,positive,positive
+99,ABM,1/2/2018,37.75,653235,1/3/2017,40.31295062,548692,ABM,['ABM Industries Incorporated'],[14],-2.562950615,104543,negetive,positive
