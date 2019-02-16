@@ -1,4 +1,4 @@
-# unsupervised-Document-Clustering
+# Unsupervised-Document-Clustering
 Kmeans model
 Project #3
 Team RISKY Business:
