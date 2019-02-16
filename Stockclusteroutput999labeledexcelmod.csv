@@ -1,0 +1,84 @@
+,TickerM3,date_xM#,adj_close_xM3,adj_volume_xM3,date_yM3,adj_close_yM3,adj_volume_y M3,company M3,PriceChangeM3,VolumeChangeM3,price_pos_negM3,volume_pos_neg M3,clusterM3,topicM3,risklabelM3,clusterint,TickerM3
+0,FTK,1/2/2018,5.3,1722138,1/3/2017,9.56,959360,Western Alliance Bancorporation,-4.26,762778,Negetive,Positive,[17],,,17,FTK
+1,FN,1/2/2018,29.1,306457,1/3/2017,37.98,1077707,Valley National Bancorp,-8.88,-771250,Negetive,Negetive,[24],,,24,FN
+2,FMC,1/2/2018,95.73,1181040,1/3/2017,56.64602323,690124,USG Corporation,39.08397677,490916,Positive,Positive,[3],,,3,FMC
+3,FLT,1/2/2018,193.87,905935,1/3/2017,144.65,721903,Universal Health Realty Income Trust,49.22,184032,Positive,Positive,[9],,,9,FLT
+4,FITB,1/2/2018,30.43,4433114,1/3/2017,26.59841823,6369018,Union Bankshares Corporation,3.831581771,-1935904,Positive,Negetive,[13],,,13,FITB
+5,FISV,1/2/2018,130.35,675854,1/3/2017,107.34,1071439,Union Pacific Corporation,23.01,-395585,Positive,Negetive,[4],"Topic 9: product, candidate, development, approval, clinical, regulatory ",['New product introduction risks '],4,FISV
+6,FC,1/2/2018,22.35,76031,1/3/2017,20.55,38745,The AES Corporation,1.8,37286,Positive,Positive,[3],,,3,FC
+7,FBP,1/2/2018,5.07,1866811,1/3/2017,6.73,1131659,Texas Pacific Land Trust,-1.66,735152,Negetive,Positive,[21],,,21,FBP
+8,FB,1/2/2018,181.42,17694891,1/3/2017,116.86,20663912,Teleflex Incorporated,64.56,-2969021,Positive,Negetive,[27],,,27,FB
+9,EXTR,1/2/2018,12.7,1221570,1/3/2017,5.18,1279575,Sysco Corporation,7.52,-58005,Positive,Negetive,[23],,,23,EXTR
+10,EVR,1/2/2018,90.6,357082,1/3/2017,68.71095073,316653,SunPower Corporation,21.88904927,40429,Positive,Positive,[23],,,23,EVR
+11,EGHT,1/2/2018,14.4,490994,1/3/2017,14.6,582088,SLM Corporation,-0.2,-91094,Negetive,Negetive,[11],"Topic 26: debt, indebtedness, cash, obligation, financial, credit, covenant ",['Funding risks '],11,EGHT
+12,ECOL,1/2/2018,51,42458,1/3/2017,48.55443472,87170,Senior Housing Properties Trust,2.445565284,-44712,Positive,Negetive,[5],,,5,ECOL
+13,ECHO,1/2/2018,28.05,420246,1/3/2017,25.35,314204,Select Medical Holdings Corporation,2.7,106042,Positive,Positive,[14],,,14,ECHO
+14,DRI,1/2/2018,96.32,2014992,1/3/2017,69.98246838,2143848,Repligen Corporation,26.33753162,-128856,Positive,Negetive,[26],,,26,DRI
+15,DO,1/2/2018,19.31,1197599,1/3/2017,18.15,2903584,Ralph Lauren Corporation,1.16,-1705985,Positive,Negetive,[22],"Topic 0: investment, property, distribution, interest, agreement ",['Shareholders interest risk '],22,DO
+16,DISCK,1/2/2018,21.83,3738153,1/3/2017,27.37,1592952,Progress Software Corporation,-5.54,2145201,Negetive,Positive,[7],,,7,DISCK
+17,DISCA,1/2/2018,23.11,5013967,1/3/2017,27.96,2626287,ProAssurance Corporation,-4.85,2387680,Negetive,Positive,[29],,,29,DISCA
+18,DIOD,1/2/2018,29.26,301756,1/3/2017,25.84,147883,Primoris Services Corporation,3.42,153873,Positive,Positive,[2],,,2,DIOD
+19,DIN,1/2/2018,51.94,202353,1/3/2017,71.25503424,210618,Primo Water Corporation,-19.31503424,-8265,Negetive,Negetive,[23],,,23,DIN
+20,DHR,1/2/2018,92.44,3543026,1/3/2017,78.39258094,2841775,Preformed Line Products Company,14.04741906,701251,Positive,Positive,[17],,,17,DHR
+21,DFS,1/2/2018,76.91,2899029,1/3/2017,71.25545348,2292419,Pinnacle West Capital Corporation,5.654546524,606610,Positive,Positive,[3],,,3,DFS
+22,DDD,1/2/2018,9.06,2498961,1/3/2017,13.69,1860081,Penn Virginia Corporation,-4.63,638880,Negetive,Positive,[21],,,21,DDD
+23,DAKT,1/2/2018,9.19,155056,1/3/2017,10.61481026,416260,PAR Technology Corporation,-1.424810259,-261204,Negetive,Negetive,[7],,,7,DAKT
+24,CZR,1/2/2018,12.45,7614573,1/3/2017,8.3,785587,PacWest Bancorp,4.15,6828986,Positive,Positive,[24],,,24,CZR
+25,CVI,1/2/2018,37.47,498374,1/3/2017,22.76894128,1263793,NewMarket Corporation,14.70105872,-765419,Positive,Negetive,[23],,,23,CVI
+26,CVBF,1/2/2018,23.49,377399,1/3/2017,22.52567923,424524,NeoPhotonics Corporation,0.964320766,-47125,Positive,Negetive,[23],,,23,CVBF
+27,CTB,1/2/2018,35.45,494448,1/3/2017,38.46445544,451668,Nanometrics Incorporated,-3.014455439,42780,Negetive,Positive,[7],,,7,CTB
+28,CSGP,1/2/2018,296.79,226368,1/3/2017,186.15,259737,Molson Coors Brewing Company,110.64,-33369,Positive,Negetive,[23],,,23,CSGP
+29,CRR,1/2/2018,10.48,516035,1/3/2017,10.84,655692,MGM Resorts International,-0.36,-139657,Negetive,Negetive,[10],,,10,CRR
+30,CPF,1/2/2018,29.83,114923,1/3/2017,30.64136694,215187,Materion Corporation,-0.811366936,-100264,Negetive,Negetive,[3],,,3,CPF
+31,COHR,1/2/2018,291.29,231608,1/3/2017,136.42,185148,LyondellBasell Industries NV,154.87,46460,Positive,Positive,[26],,,26,COHR
+32,COG,1/2/2018,28.9,5244308,1/3/2017,22.1895684,17547123,Luminex Corporation,6.710431604,-12302815,Positive,Negetive,[27],,,27,COG
+33,CNK,1/2/2018,35.13,1317376,1/3/2017,38.61921579,930148,Liberty Property Trust,-3.489215795,387228,Negetive,Positive,[5],,,5,CNK
+34,CMA,1/2/2018,86.57,1051508,1/3/2017,68.19923113,1908236,Lam Research Corporation,18.37076887,-856728,Positive,Negetive,[7],,,7,CMA
+35,CHMG,1/2/2018,49.26,12011,1/3/2017,34.79740109,3531,iRobot Corporation,14.46259891,8480,Positive,Positive,[23],,,23,CHMG
+36,CHFN,1/2/2018,17.35,27970,1/3/2017,16.52652086,87293,Investors Real Estate Trust,0.823479138,-59323,Positive,Negetive,[5],,,5,CHFN
+37,CHEF,1/2/2018,21.2,255805,1/3/2017,15.65,240348,International Business Machines Corporation,5.55,15457,Positive,Positive,[17],,,17,CHEF
+38,CHD,1/2/2018,49.43,1494120,1/3/2017,43.83410296,3126646,Integra LifeSciences Holdings Corporation,5.595897039,-1632526,Positive,Negetive,[27],,,27,CHD
+39,CF,1/2/2018,43.14,2327236,1/3/2017,30.94621572,6719839,Immersion Corporation,12.19378428,-4392603,Positive,Negetive,[7],,,7,CF
+40,CDE,1/2/2018,7.97,3262885,1/3/2017,9.74,4599970,Hospitality Properties Trust,-1.77,-1337085,Negetive,Negetive,[12],,,12,CDE
+41,CCE,1/2/2018,39.71,750949,1/3/2017,30.63097488,2219869,Heska Corporation,9.079025121,-1468920,Positive,Negetive,[27],,,27,CCE
+42,CBK,1/2/2018,1.3,146072,1/3/2017,2.35,372734,Hallador Energy Company,-1.05,-226662,Negetive,Negetive,[3],,,3,CBK
+43,CBB,1/2/2018,21.15,244241,1/3/2017,23.6,452737,Guaranty Bancorp,-2.45,-208496,Negetive,Negetive,[4],"Topic 9: product, candidate, development, approval, clinical, regulatory ",['New product introduction risks '],4,CBB
+44,CATY,1/2/2018,42.64,498017,1/3/2017,37.51395819,268433,Graham Corporation,5.126041814,229584,Positive,Positive,[23],,,23,CATY
+45,CARB,1/2/2018,25.25,226679,1/3/2017,15.6,805417,Genuine Parts Company,9.65,-578738,Positive,Negetive,[23],,,23,CARB
+46,CAMP,1/2/2018,21.76,485814,1/3/2017,14.53,381780,Genpact Limited,7.23,104034,Positive,Positive,[19],,,19,CAMP
+47,BTX,1/2/2018,2.29,817475,1/3/2017,3.64,206847,First United Corporation,-1.35,610628,Negetive,Positive,[11],"Topic 26: debt, indebtedness, cash, obligation, financial, credit, covenant ",['Funding risks '],11,BTX
+48,BRSS,1/2/2018,33.8,92125,1/3/2017,33.80275534,166642,First Busey Corporation,-0.002755336,-74517,Negetive,Negetive,[13],,,13,BRSS
+49,BRO,1/2/2018,51.08,692552,1/3/2017,44.26540366,611844,Fidelity Southern Corporation,6.814596344,80708,Positive,Positive,[11],"Topic 26: debt, indebtedness, cash, obligation, financial, credit, covenant ",['Funding risks '],11,BRO
+50,BPFH,1/2/2018,15.3,382650,1/3/2017,16.14314789,571301,Exact Sciences Corporation,-0.843147888,-188651,Negetive,Negetive,[14],,,14,BPFH
+51,BMTC,1/2/2018,44.3,46647,1/3/2017,40.91156547,52202,Erie Indemnity Company,3.388434534,-5555,Positive,Negetive,[29],,,29,BMTC
+52,BLKB,1/2/2018,94.32,229607,1/3/2017,64.65968829,253706,Entravision Communications Corporation,29.66031171,-24099,Positive,Negetive,[6],,,6,BLKB
+53,BLDR,1/2/2018,22,2378318,1/3/2017,11.64,1088325,Enstar Group Limited,10.36,1289993,Positive,Positive,[29],,,29,BLDR
+54,BIG,1/2/2018,55.9,1069746,1/3/2017,48.75702513,1430566,Educational Development Corporation,7.14297487,-360820,Positive,Negetive,[15],"Topic 2: gas, price, oil, natural, operation, production ",['Input prices risks '],15,BIG
+55,BG,1/2/2018,67.99,943394,1/3/2017,71.41031104,650766,Duke Realty Corporation,-3.420311041,292628,Negetive,Positive,[5],,,5,BG
+56,BECN,1/2/2018,64.69,603997,1/3/2017,45.95,515829,Dollar General Corporation,18.74,88168,Positive,Positive,[22],"Topic 0: investment, property, distribution, interest, agreement ",['Shareholders interest risk '],22,BECN
+57,BBSI,1/2/2018,63.66,31630,1/3/2017,63.52271131,84796,Dawson Geophysical Company,0.137288687,-53166,Positive,Negetive,[21],,,21,BBSI
+58,AXS,1/2/2018,49.27,758771,1/3/2017,64.22478294,636122,Covanta Holding Corporation,-14.95478294,122649,Negetive,Positive,[2],,,2,AXS
+59,AXE,1/2/2018,76.15,149137,1/3/2017,81.9,95426,CoreSite Realty Corporation,-5.75,53711,Negetive,Positive,[5],,,5,AXE
+60,AXAS,1/2/2018,2.56,1415217,1/3/2017,2.67,1904466,Corcept Therapeutics Incorporated,-0.11,-489249,Negetive,Negetive,[28],,,28,AXAS
+61,AVA,1/2/2018,51.5,668230,1/3/2017,38.74796033,298962,Columbus McKinnon Corporation,12.75203967,369268,Positive,Positive,[23],,,23,AVA
+62,ATEC,1/2/2018,2.67,50563,1/3/2017,3.22,33285,Cintas Corporation,-0.55,17278,Negetive,Positive,[23],,,23,ATEC
+63,ARR,1/2/2018,25.52,504500,1/3/2017,20.3774956,565083,Central Valley Community Bancorp,5.142504404,-60583,Positive,Negetive,[24],,,24,ARR
+64,AROW,1/2/2018,34,14627,1/3/2017,38.48686123,14477.68,Celgene Corporation,-4.486861227,149.32,Negetive,Positive,[27],,,27,AROW
+65,APEI,1/2/2018,25.8,65203,1/3/2017,24.8,64054,Canterbury Park Holding Corporation,1,1149,Positive,Positive,[10],,,10,APEI
+66,APA,1/2/2018,44.3,4000822,1/3/2017,63.20631035,4816806,Camden Property Trust,-18.90631035,-815984,Negetive,Negetive,[5],,,5,APA
+67,ANF,1/2/2018,18.2,2267727,1/3/2017,11.54346924,4615968,Bruker Corporation,6.65653076,-2348241,Positive,Negetive,[26],,,26,ANF
+68,AMRC,1/2/2018,8.7,37778,1/3/2017,5.65,82617,Black Box Corporation,3.05,-44839,Positive,Negetive,[19],,,19,AMRC
+69,ALX,1/2/2018,398.73,6911,1/3/2017,404.9106465,15717,Banner Corporation,-6.180646548,-8806,Negetive,Negetive,[24],,,24,ALX
+70,AJG,1/2/2018,62.17,790255,1/3/2017,51.19006802,1058717,Atmos Energy Corporation,10.97993198,-268462,Positive,Negetive,[3],,,3,AJG
+71,AIZ,1/2/2018,99.23,443267,1/3/2017,92.62682239,429223,Atlanticus Holdings Corporation,6.603177606,14044,Positive,Positive,[11],"Topic 26: debt, indebtedness, cash, obligation, financial, credit, covenant ",['Funding risks '],11,AIZ
+72,AHC,1/2/2018,4.9,35611,1/3/2017,6.136916173,9113,Ares Commercial Real Estate Corporation,-1.236916173,26498,Negetive,Positive,[16],,,16,AHC
+73,AGX,1/2/2018,46.35,240630,1/3/2017,69.21079882,272356,Archer Daniels Midland Company,-22.86079882,-31726,Negetive,Negetive,[17],,,17,AGX
+74,AET,1/2/2018,180.69,2541951,1/3/2017,121.3354813,4162761,AMREP Corporation,59.35451869,-1620810,Positive,Negetive,[15],"Topic 2: gas, price, oil, natural, operation, production ",['Input prices risks '],15,AET
+75,AEIS,1/2/2018,69.41,385019,1/3/2017,54.8,280848,Ames National Corporation,14.61,104171,Positive,Positive,[24],,,24,AEIS
+76,ADI,1/2/2018,90.28,2292420,1/3/2017,71.31468242,2687647,Ameren Corporation,18.96531758,-395227,Positive,Negetive,[14],,,14,ADI
+77,ACRX,1/2/2018,2.05,493715,1/3/2017,2.55,168265,Alliant Energy Corporation,-0.5,325450,Negetive,Positive,[3],,,3,ACRX
+78,ACLS,1/2/2018,29.55,297464,1/3/2017,14.15,166596,Albemarle Corporation,15.4,130868,Positive,Positive,[23],,,23,ACLS
+79,ABM,1/2/2018,37.75,653235,1/3/2017,40.31295062,548692,Actuant Corporation,-2.562950615,104543,Negetive,Positive,[23],,,23,ABM
+80,ABAX,1/2/2018,50,204822,1/3/2017,53.17028701,121837,ABM Industries Incorporated,-3.170287005,82985,Negetive,Positive,[19],,,19,ABAX
+81,AAPL,1/2/2018,172.26,25048048,1/3/2017,114.7153778,28781865,Abbott Laboratories,57.5446222,-3733817,Positive,Negetive,[14],,,14,AAPL
+82,AAN,1/2/2018,39.47,905987,1/3/2017,31.82719939,760498,3M Company,7.642800611,145489,Positive,Positive,[17],,,17,AAN
